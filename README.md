@@ -17,7 +17,7 @@ MediaPipe offers ML solutions for live and streaming medio. The selfie segmentat
 For more information visit the [page](https://google.github.io/mediapipe/solutions/selfie_segmentation).
 
 ## Flask
-Flask is a lightweight WSGI (Web Server Gateway Interface) web application framework. The offitial respository for installation guide and example is [here](https://github.com/pallets/flask/tree/2.2.3).
+Flask is a lightweight WSGI (Web Server Gateway Interface) web application framework. The official respository for installation guide and example is [here](https://github.com/pallets/flask/tree/2.2.3).
 
 
 ## Result
