@@ -16,6 +16,9 @@ This process is implemented python, and the following libraries:
 MediaPipe offers ML solutions for live and streaming medio. The selfie segmentation segments the prominent humans in the scene. This provide 2 model based on MobileNetV3, a general model and a landscape model.
 For more information visit the [page](https://google.github.io/mediapipe/solutions/selfie_segmentation).
 
+## Flask
+Flask is a lightweight WSGI (Web Server Gateway Interface) web application framework. The offitial respository for installation guide and example is [here](https://github.com/pallets/flask/tree/2.2.3).
+
 
 ## Result
 The result obteined to  run the Flask app
